@@ -1,0 +1,15 @@
+[
+  {
+    "chainId": 101,
+    "address": "DTYjVbvWJ6EnTiyfQVLNkiwf83cPic7wzKpo9PfCDbqy",
+    "symbol": "SOLAI",
+    "name": "SolAI",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/davidsolai/token-list/main/assets/logo.png",
+    "tags": ["utility-token"],
+    "extensions": {
+      "website": "https://tuweb.com",
+      "twitter": "https://twitter.com/tuCuenta"
+    }
+  }
+]
