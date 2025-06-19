@@ -1,12 +1,35 @@
 {
-  "chainId": 101,
-  "address": "DTYjVbvWJ6EnTiyfQVLNkiwf83cPic7wzKpo9PfCDbqy",
-  "symbol": "SOLAI",
-  "name": "SolAI",
-  "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/davidsolai/solai-assets/main/logo.png",
-  "tags": ["utility-token", "AI"],
-  "extensions": {
-    "website": "https://solai.tech"
-  }
+  "name": "Solana Token List",
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/logo.png",
+  "keywords": ["solana", "tokens"],
+  "tags": {
+    "utility-token": {
+      "name": "Utility Token",
+      "description": "Tokens used for utilities."
+    },
+    "AI": {
+      "name": "Artificial Intelligence",
+      "description": "Tokens related to AI projects."
+    }
+  },
+  "timestamp": "2025-06-19T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "DTYjVbvWJ6EnTiyfQVLNkiwf83cPic7wzKpo9PfCDbqy",
+      "symbol": "SOLAI",
+      "name": "SolAI",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/davidsolai/solai-assets/main/logo.png",
+      "tags": ["utility-token", "AI"],
+      "extensions": {
+        "website": "https://solai.tech"
+      }
+    }
+  ]
 }
